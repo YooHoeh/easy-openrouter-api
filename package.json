@@ -3,7 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "An OpenAI-compatible smart LLM gateway built on top of OpenRouter.",
+  "description": "OpenAI-compatible gateway for OpenRouter that auto-selects healthy models, prefers free ones, falls back when they fail, and keeps client integrations stable.",
+  "keywords": [
+    "openrouter",
+    "openai-compatible",
+    "llm-gateway",
+    "ai-gateway",
+    "multimodal",
+    "fastify"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
