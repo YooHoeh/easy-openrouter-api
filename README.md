@@ -337,3 +337,7 @@ npm start
 3. [docs/api/openai-compatible-contract.md](./docs/api/openai-compatible-contract.md)
 4. [docs/product/project-brief.md](./docs/product/project-brief.md)
 5. [docs/architecture/routing-and-orchestration-spec.md](./docs/architecture/routing-and-orchestration-spec.md)
+
+## 许可证
+
+本项目默认使用 `MIT License`。

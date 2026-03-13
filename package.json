@@ -4,6 +4,15 @@
   "private": true,
   "type": "module",
   "description": "An OpenAI-compatible smart LLM gateway built on top of OpenRouter.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YooHoeh/easy-openrouter-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YooHoeh/easy-openrouter-api/issues"
+  },
+  "homepage": "https://github.com/YooHoeh/easy-openrouter-api#readme",
   "engines": {
     "node": ">=22.0.0"
   },
