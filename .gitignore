@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+coverage/
+.logs/
+.env
+.env.local
+npm-debug.log*
+vitest.config.ts.timestamp-*
